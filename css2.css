@@ -55,6 +55,7 @@ body{
         width: 95%;
         /* background-color: bisque; */
         font-size: 12px;
+        z-index:0;
     }
     .imgRightS{
         width: 80px;
